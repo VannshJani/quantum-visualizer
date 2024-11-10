@@ -1,1 +1,6 @@
-
+streamlit
+qiskit
+qiskit_aer
+numpy
+io
+PIL

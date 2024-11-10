@@ -3,3 +3,4 @@ qiskit
 qiskit_aer
 numpy
 matplotlib
+pylatexenc
